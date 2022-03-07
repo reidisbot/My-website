@@ -1,0 +1,124 @@
+var Buy_Wheat = 2.3;
+var Buy_Carrot = 2.3;
+var Buy_Potato = 2.3;
+var Buy_Melon = 2;
+var Buy_Sugar_Cane = 5;
+var Buy_Pumkin = 8;
+var Buy_Red_Mushroom = 12;
+var Buy_Brown_Mushroom = 12;
+var Buy_Sand = 4;
+var Buy_Cactus = 10;
+var Buy_Nether_Wart = 10;
+
+var Sell_Wheat = 1;
+var Sell_Carrot = 1;
+var Sell_Potato = 1;
+var Sell_Melon = 0.5;
+var Sell_Sugar_Cane = 2;
+var Sell_Pumkin = 4;
+var Sell_Red_Mushroom = 4;
+var Sell_Brown_Mushroom = 4;
+var Sell_Sand = 2;
+var Sell_Cactus = 1;
+var Sell_Nether_Wart = 3;
+
+var Buy_Coal = 4;
+var Buy_Iron_Ingot = 5.5;
+var Buy_Gold_Ingot = 6;
+var Buy_Gravel = 6;
+var Buy_Cobblestone = 3;
+var Buy_Flint = 6;
+var Buy_Packed_Ice = 9;
+var Buy_Ice = 1;
+
+var Sell_Coal = 4;
+var Sell_Iron_Ingot = 3;
+var Sell_Gold_Ingot = 4;
+var Sell_Gravel = 3;
+var Sell_Cobblestone = 1;
+var Sell_Flint = 4;
+var Sell_Packed_Ice = 4.5;
+var Sell_Ice = 0.5;
+
+var Buy_Rotten_Flesh = 8;
+var Buy_Bone = 8;
+var Buy_String = 10;
+var Buy_Slimeball = 14;
+var Buy_Gunpowder = 10;
+var Buy_Spider_Eye = 12;
+
+var Sell_Rotten_Flesh = 2;
+var Sell_Bone = 2;
+var Sell_String = 3;
+var Sell_Slimeball = 5;
+var Sell_Gunpowder = 4;
+var Sell_Spider_Eye = 3;
+
+var Buy_Oak_Wood = 5;
+var Buy_Birch_Wood = 5;
+var Buy_Spruce_Wood = 5;
+var Buy_DarkOak_wood = 5;
+var Buy_Acacia_Wood = 5;
+var Buy_Jungle_Wood = 5;
+var Buy_Raw_Fish = 20;
+var Buy_Raw_Salmon = 30;
+var Buy_Clownfish = 100;
+var Buy_Pufferfish = 40;
+
+var Sell_Oak_Wood = 2;
+var Sell_Birch_Wood = 2;
+var Sell_Spruce_Wood = 2;
+var Sell_DarkOak_wood = 2;
+var Sell_Acacia_Wood = 2;
+var Sell_Jungle_Wood = 2;
+var Sell_Raw_Fish = 6;
+var Sell_Raw_Salmon = 10;
+var Sell_Clownfish = 20;
+var Sell_Pufferfish = 15;
+
+var Raw_Beef = 4;
+var Leather = 3;
+var Raw_Porkchop = 5;
+var Rabbit_Hide = 5;
+var Rabbits_Foot = 5;
+var Raw_Rabbit = 4;
+var Mutton = 5;
+var Feather = 3;
+
+var Hard_Stone = 1;
+var Netherrack = 1;
+var End_Stone = 2;
+var Snow_Block = 4;
+var Mithril = 10;
+var Titanium =20;
+var Starfall = 15;
+var Treasurite = 5000;
+var Rough_Ruby_Gemstone = 4;
+var Rough_Jasper_Gemstone = 4;
+var Rough_Amethyst_Gemstone = 4;
+var Rough_Sapphire_Gemstone = 4;
+var Rough_Topaz_Gemstone = 4;
+var Rough_Amber_Gemstone = 4;
+var Rough_Jade_Gemstone = 4;
+var Diamond = 8;
+var Lapis = 1;
+var Emerald = 6;
+var Redstone = 1;
+var Nether_Quartz = 4;
+var Obsidian = 7;
+var Glowstone_Dust = 2;
+
+var Ender_Pearl = 7;
+var Ghast_Tear = 16;
+var Blaze_Rod = 9;
+var Revenant_Flesh = 1;
+var Tarantula_Web = 1;
+var Wolf_Tooth = 1;
+var Tasty_Cheese = 500;
+
+var Prismarine_Shard = 5;
+var Prismarine_Crystal = 5;
+var Clay = 3;
+var Sponge = 50;
+var Lily_Pad = 10;
+var Ink_Sack = 2;
